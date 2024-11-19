@@ -1,40 +1,34 @@
 # eJPT Study Notes 📘
 
-Benvenuto nel mio repository dedicato alla preparazione per la certificazione **eLearnSecurity Junior Penetration Tester (eJPT)**. Questo repository contiene i miei appunti personali, organizzati e strutturati per aiutare chiunque stia studiando per ottenere questa certificazione.
+Welcome to my repository dedicated to preparing for the **eLearnSecurity Junior Penetration Tester (eJPT)** certification. This repository contains my personal notes, organized and structured to help anyone studying for this certification.
 
-## 📚 Contenuti del Repository
+## 📚 Repository Contents
 
-- **Introduzione alla eJPT**  
-  Una panoramica sulla certificazione, gli obiettivi e il syllabus ufficiale.
+- **Main Topics**  
+  - Networks and Protocols (OSI Model, TCP/IP, ARP, DNS, etc.)  
+  - Scanning and Enumeration  
+  - Vulnerability Assessment  
+  - Exploitation Basics  
+  - Web Application Security  
+  - Reporting  
 
-- **Argomenti principali**  
-  - Reti e protocolli (OSI Model, TCP/IP, ARP, DNS, ecc.)
-  - Scanning e Enumeration
-  - Vulnerability Assessment
-  - Exploitation Basics
-  - Web Application Security
-  - Reporting
+## 🛠️ Tools Used
 
-- **Risorse utili**  
-  Collegamenti a materiale aggiuntivo, come video, articoli e strumenti consigliati.
-
-## 🛠️ Strumenti Utilizzati
-
-Durante lo studio, ho utilizzato vari strumenti di penetration testing, inclusi:  
+During my studies, I used various penetration testing tools, including:  
 - `Nmap`  
 - `Wireshark`  
 - `Burp Suite`  
 - `Metasploit`  
-- Altri strumenti open source.
+- Other open-source tools.  
 
-Troverai anche script e comandi utili che ho utilizzato durante i laboratori.
+You will also find useful scripts and commands I used in the labs.  
 
-## 🚀 Obiettivo
+## 🚀 Objective
 
-Il mio obiettivo è quello di creare un repository utile non solo per me stesso ma anche per chiunque desideri un supporto durante la preparazione alla certificazione eJPT.  
+My goal is to create a repository that is not only useful for myself but also for anyone seeking support while preparing for the eJPT certification.  
 
-## Come Contribuire 🖇️
+## How to Contribute 🖇️
 
-Se trovi errori, hai suggerimenti o vuoi aggiungere qualcosa, sentiti libero di aprire una [Pull Request](https://docs.github.com/it/pull-requests) o segnalare un problema nella sezione [Issues](https://docs.github.com/it/issues).
+If you find any errors, have suggestions, or want to add something, feel free to open a [Pull Request](https://github.com/ggrit/eJPT/pulls) or report an issue in the [Issues section](https://github.com/ggrit/eJPT/issues).  
 
 ---
